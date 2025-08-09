@@ -62,13 +62,10 @@ streamlit run app.py
 
 ## 📬 Contact
 
-**Sohan Raut**
- [GitHub](https://github.com/SRx210)
+[Sohan Raut](https://github.com/SRx210)
 
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
 
 ````
-* Optional project badge icons (like build status, stars, etc.)
-* Deployment to Streamlit Cloud if you're ready!
